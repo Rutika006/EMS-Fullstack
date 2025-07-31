@@ -1,0 +1,16 @@
+# Node modules (React frontend)
+ems-frontend/node_modules/
+
+# Build output (Vite)
+ems-frontend/dist/
+
+# IDE and system files
+*.log
+*.class
+*.jar
+*.war
+target/
+.DS_Store
+
+# Environment variables
+.env
